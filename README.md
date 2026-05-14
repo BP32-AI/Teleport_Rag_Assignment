@@ -323,26 +323,26 @@ To migrate this solution into production using Google Cloud Vertex AI:
 
 # Assignment Requirements Covered
 
-✅ Local RAG pipeline
+1. Local RAG pipeline
 
-✅ Embedding generation
+2. Embedding generation
 
-✅ Semantic search
+3. Semantic search
 
-✅ FAISS vector database
+4. FAISS vector database
 
-✅ Query expansion
+5. Query expansion
 
-✅ Mocked AI model
+6. Mocked AI model
 
-✅ Benchmark comparison
+7. Benchmark comparison
 
-✅ Pytest testing
+8. Pytest testing
 
-✅ Retrieval report
+9. Retrieval report
 
-✅ Similarity metric explanation
+10. Similarity metric explanation
 
-✅ Vertex AI migration explanation
+11. Vertex AI migration explanation
 
 ---
